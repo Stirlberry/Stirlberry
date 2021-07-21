@@ -1,4 +1,4 @@
-- 👋 Hi and welcome, I’m Stirlberry.  
+- 👋 Hi and welcome, I’m Stirlberry (nickname).  
 - 👀 I have lots of interests. I guess it comes from a desire for knowlegde, understanding and problem solving. Some of my interests, other than coding, are aerial photography, technology, some science subjects, health, fitness and wellbeing.
 - 🌱 I’m currently learning python, javascript, CSS, and HTML5, (HTML isn't coding, but it's still good to know). I know some C++ and SQL. Very interested in learning data science, Machine Learning, Java and other languages. 
 - 💞️ I’m looking to collaborate on any project. 
